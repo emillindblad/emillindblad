@@ -10,7 +10,7 @@ Im a Software Engineering student at Chalmers University of Technology 🎓
 🖥️ Linux ⌨️ Neovim 🐍 Python 📄 LaTeX
 
 ### 📫 Where to find me
-- 🌐 Personal website [lindblad.tech](https:lindblad.tech)
+- 🌐 Personal website [lindblad.tech](https://lindblad.tech)
 
 
 
